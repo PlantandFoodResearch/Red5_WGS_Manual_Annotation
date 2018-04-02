@@ -15,3 +15,8 @@ The genome sequence (version 1.69.0) and manual curation of annotation of that g
 - Queensland University of Technology, Brisbane , Australia
 
 Git has proven its worth for collarborative software development but has not been extensively used to date for collaborative community based gene annotation. This site is therefore a trial of that concept as a means to assist in the ongoing improvement of manually annotated gene models for *Actinidia chinensis* var *chinensis* Red5. 
+
+# Gene Set Versioning
+
+Gene model sets in this repository are specific to a specific whole genome sequence version. This means coordinates in gff3 files are specific to a specific whole genome sequence coordinate system and will not be correct out side that specifice whole genome sequence version.
+
