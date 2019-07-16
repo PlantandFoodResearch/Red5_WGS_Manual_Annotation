@@ -20,3 +20,6 @@ Git has proven its worth for collarborative software development but has not bee
 
 Gene model sets in this repository are specific to a specific whole genome sequence version. This means coordinates in gff3 files are specific to a specific whole genome sequence coordinate system and will not be correct out side that specifice whole genome sequence version.
 
+# EnsemblPlants
+
+The Red5 genome and annotation is also available on [EnsemblPlants](http://plants.ensembl.org/Actinidia_chinensis/Info/Index)
